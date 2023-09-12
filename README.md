@@ -10,8 +10,8 @@ Welcome to my GitHub repository showcasing a collection of computer vision proje
   - [Introduction](#introduction)
   - [Projects](#projects)
     - [Project 1: Segmentation](#project-1-segmentation)
-    - [Project 2: Facial Recognition](#project-2-facial-recognition)
-    - [Project 3: Image Segmentation](#project-3-image-segmentation)
+    - [Project 2: Object Detection](#project-2-object-detection)
+    - [Project 3: Image Classification](#project-3-image-classification)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
@@ -24,21 +24,14 @@ In this repository, you'll find a collection of computer vision projects that de
 
 ### Project 1: [Segmentation](https://github.com/camillekokoko/Computer_Vision/blob/main/MMSegmentation_Tutorial.ipynb)
 
-- **Description**: This project focuses on real-time object detection in images and video streams using popular deep learning frameworks like TensorFlow and OpenCV.
-- **Features**:
-  - Object recognition in images and videos.
-  - Integration with pre-trained models such as YOLO and SSD.
-- **Skills and Technologies**: Deep Learning, Convolutional Neural Networks (CNNs), OpenCV, TensorFlow.
+- **Description**: MMSegmentation
 
-### Project 2: Facial Recognition
+### Project 2: [Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)
 
-- **Description**: In this project, I developed a facial recognition system capable of identifying and verifying individuals in images and video footage.
-- **Features**:
-  - Face detection and alignment.
-  - Face recognition using deep neural networks.
-- **Skills and Technologies**: Face Detection, Face Recognition, Deep Learning, OpenCV, Dlib.
+- **Description**: Object detection using Transfer Learning
+- **Link**: [Small object detection- Concepts in AI 5mins video](https://www.youtube.com/watch?v=zJcAJ5dtSuc)
 
-### Project 3: Image Segmentation
 
-- **Description**: This project explores image segmentation techniques to partition images into meaningful regions.
-- **Features**
+### Project 3: [Image Classification](https://github.com/camillekokoko/Computer_Vision/tree/main/Image_Classification)
+
+- **Description**: This project explores image classification on CIFAR10 
