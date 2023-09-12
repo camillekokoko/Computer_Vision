@@ -9,7 +9,7 @@ Welcome to my GitHub repository showcasing a collection of computer vision proje
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Projects](#projects)
-    - [Project 1: Object Detection](#project-1-object-detection)
+    - [Project 1: Segmentation](#project-1-segmentation)
     - [Project 2: Facial Recognition](#project-2-facial-recognition)
     - [Project 3: Image Segmentation](#project-3-image-segmentation)
   - [Usage](#usage)
@@ -22,7 +22,7 @@ In this repository, you'll find a collection of computer vision projects that de
 
 ## Projects
 
-### Project 1: Object Detection
+### Project 1: [Segmentation](https://github.com/camillekokoko/Computer_Vision/blob/main/MMSegmentation_Tutorial.ipynb)
 
 - **Description**: This project focuses on real-time object detection in images and video streams using popular deep learning frameworks like TensorFlow and OpenCV.
 - **Features**:
